@@ -1,0 +1,47 @@
+## Interface: 30300
+## Title: |cffffffffNaer|r|cff7ec8e3Control|r
+## Notes: |cffffd100Suite de |r|cffffffffNaerZone|r|cffffd100: escáner de botín, comandos y filtro de chat.|r
+## Author: Vyr
+## Version: 1.0.2
+## SavedVariables: NaerControlDB, NaerChatDB
+## SavedVariablesPerCharacter: NaerControlCharDB
+
+core\config.lua
+core\data.lua
+core\util.lua
+core\theme.lua
+core\instances_es.lua
+core\pvpstats.lua
+core\soloq.lua
+core\minimap.lua
+core\window.lua
+core\tab_comandos.lua
+core\tab_scanner.lua
+core\watchlist.lua
+core\eye.lua
+core\iconcheck.lua
+core\xprate.lua
+core\console.lua
+core\events.lua
+core\tab_events.lua
+core\playerinfo.lua
+core\infoprobe.lua
+core\tab_info.lua
+core\eventdiag.lua
+core\dungeons.lua
+core\tab_dungeons.lua
+core\tab_settings.lua
+core\tab_bg.lua
+core\tab_soloq.lua
+core\tab_help.lua
+core\instdiag.lua
+core\chat_tab.lua
+
+chat\Config.lua
+chat\Filters.lua
+chat\Core.lua
+chat\UI.lua
+chat\LogWindow.lua
+chat\Slash.lua
+
+core\main.lua
